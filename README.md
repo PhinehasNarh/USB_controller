@@ -57,6 +57,12 @@ pip install pywin32 wmi
 - Blocking USBs affects all storage devices, including external hard drives and flash drives.
 - Modifying the registry can have system-wide effects—use with caution.
 
+## Improvements
+- Improve Detection
+- Introduce whitelists/blacklists
+- CLI mode
+- Encrypt logs
+
 ## Disclaimer
 This tool is intended for educational and security purposes only. The author is not responsible for any misuse or damage caused by this script.
 
