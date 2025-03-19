@@ -63,6 +63,8 @@ pip install pywin32 wmi
 - CLI mode
 - Encrypt logs
 
+*I know this tool is going to be really sick with this improvements available with it, surely I'll get to it soon. Stay tuned!*
+
 ## Disclaimer
 This tool is intended for educational and security purposes only. The author is not responsible for any misuse or damage caused by this script.
 
