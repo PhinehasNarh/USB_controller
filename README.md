@@ -1,4 +1,4 @@
-# USB Manager
+# USB Drive Manager
 
 ## Overview
 USB Manager is a Python-based tool designed to monitor, log, and control USB device access on a Windows system. It provides administrators with the ability to block or allow USB storage devices dynamically, helping to enhance security against unauthorized USB usage.
@@ -26,8 +26,8 @@ pip install pywin32 wmi
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone <your-repo-url>
-   cd usb-manager
+   git clone https://github.com/PhinehasNarh/USB_controller
+   cd usb_manager
    ```
 2. Run the script as an administrator:
    ```sh
@@ -62,3 +62,6 @@ This tool is intended for educational and security purposes only. The author is 
 
 ## License
 MIT License
+
+
+### #ph1n3y
